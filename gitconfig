@@ -1,0 +1,13 @@
+[user]
+	email = rbrown@medicusins.com
+	name = Rob Brown
+[alias]
+	s = status --short
+[core]
+	filemode = false
+[push]
+	default = upstream
+[color]
+	ui = auto
+[branch]
+	autosetupmerge = true

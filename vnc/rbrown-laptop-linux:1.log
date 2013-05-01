@@ -1,0 +1,1779 @@
+
+Xvnc Free Edition 4.1.1 - built Feb  5 2012 20:04:02
+Copyright (C) 2002-2005 RealVNC Ltd.
+See http://www.realvnc.com for information on VNC.
+Underlying X server release 40300000, The XFree86 Project, Inc
+
+
+Tue Sep 18 04:57:25 2012
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on port 5901
+ vncext:      created VNC server for screen 0
+error opening security policy file /etc/X11/xserver/SecurityPolicy
+Could not init font path element /usr/X11R6/lib/X11/fonts/Type1/, removing from list!
+Could not init font path element /usr/X11R6/lib/X11/fonts/Speedo/, removing from list!
+Could not init font path element /usr/X11R6/lib/X11/fonts/misc/, removing from list!
+Could not init font path element /usr/X11R6/lib/X11/fonts/75dpi/, removing from list!
+Could not init font path element /usr/X11R6/lib/X11/fonts/100dpi/, removing from list!
+Could not init font path element /usr/share/fonts/X11/75dpi/, removing from list!
+Could not init font path element /usr/share/fonts/X11/100dpi/, removing from list!
+Option "--login" is no longer supported in this version of gnome-terminal; you might want to create a profile with the desired setting, and use the new '--profile' option
+gnome-session[9790]: WARNING: GSIdleMonitor: IDLETIME counter not found
+gnome-session-is-accelerated: No composite extension.
+gnome-session-check-accelerated: Helper exited with code 256
+gnome-session[9790]: WARNING: Session 'gnome-classic' runnable check failed: Exited with code 1
+
+(gnome-settings-daemon:9988): power-plugin-WARNING **: Unable to start power manager: RANDR extension is too old (must be at least 1.2)
+
+(gnome-settings-daemon:9988): color-plugin-WARNING **: Unable to start color manager: RANDR extension is too old (must be at least 1.2)
+GNOME_KEYRING_CONTROL=/tmp/keyring-lF3YDj
+GNOME_KEYRING_PID=9996
+GNOME_KEYRING_CONTROL=/tmp/keyring-lF3YDj
+SSH_AUTH_SOCK=/tmp/keyring-lF3YDj/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-lF3YDj
+SSH_AUTH_SOCK=/tmp/keyring-lF3YDj/ssh
+GPG_AGENT_INFO=/tmp/keyring-lF3YDj/gpg:0:1
+GNOME_KEYRING_CONTROL=/tmp/keyring-lF3YDj
+SSH_AUTH_SOCK=/tmp/keyring-lF3YDj/ssh
+GPG_AGENT_INFO=/tmp/keyring-lF3YDj/gpg:0:1
+
+(gnome-settings-daemon:9988): xrandr-plugin-WARNING **: Unable to start xrandr manager: RANDR extension is too old (must be at least 1.2)
+Window manager warning: Log level 32: could not find XKB extension.
+Window manager warning: Log level 32: could not find XKB extension.
+Window manager warning: Screen 0 on display ":1" already has a window manager; try using the --replace option to replace the current window manager.
+Window manager warning: Log level 32: could not find XKB extension.
+Window manager warning: Screen 0 on display ":1" already has a window manager; try using the --replace option to replace the current window manager.
+
+(gnome-settings-daemon:9988): keyboard-plugin-WARNING **: Neither XKeyboard not Xfree86's keyboard extensions are available,
+no way to support keyboard autorepeat rate settings
+
+(gnome-settings-daemon:9988): keyboard-plugin-WARNING **: XKB extension not available
+
+(gnome-settings-daemon:9988): keyboard-plugin-WARNING **: Neither XKeyboard not Xfree86's keyboard extensions are available,
+no way to support keyboard autorepeat rate settings
+
+(gnome-settings-daemon:9988): keyboard-plugin-WARNING **: Failed to set the keyboard layouts: GDBus.Error:org.freedesktop.Accounts.Error.PermissionDenied: Not authorized
+To link this computer to a dropbox account, visit the following url:
+https://www.dropbox.com/cli_link?host_id=4a15b971e0ddb9cc6c89b60eff3ebcaf&cl=en_US
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+** Message: moving back from GtkStatusIcon to indicator
+Gtk-Message: Failed to load module "atk-bridge"
+Failure: Module initalization failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+gnome-session[9790]: WARNING: AT-SPI: Could not obtain desktop path or name
+
+gnome-session[9790]: WARNING: atk-bridge: GetRegisteredEvents returned message with unknown signature
+gnome-session[9790]: WARNING: atk-bridge: get_device_events_reply: unknown signature
+gnome-session[9790]: WARNING: atk-bridge: get_device_events_reply: unknown signature
+
+Tue Sep 18 04:58:52 2012
+ Connections: accepted: 0.0.0.0::61546
+ SConnection: Client needs protocol version 3.889
+ SConnection: Client uses unofficial protocol version 3.889
+ SConnection: Assuming compatibility with version 3.8
+
+Tue Sep 18 04:58:58 2012
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 32 (32bpp) little-endian rgb max
+              255,255,255 shift 16,8,0
+Created new window in existing browser session.
+
+(vino-preferences:11474): Gtk-CRITICAL **: gtk_entry_set_text: assertion `text != NULL' failed
+
+(vino-server:11488): EggSMClient-CRITICAL **: egg_sm_client_set_mode: assertion `global_client == NULL || global_client_mode == EGG_SM_CLIENT_MODE_DISABLED' failed
+18/09/2012 05:07:40 AM Autoprobing TCP port in (all) network interface
+18/09/2012 05:07:40 AM Listening IPv6://[::]:5900
+18/09/2012 05:07:40 AM Listening IPv4://0.0.0.0:5900
+18/09/2012 05:07:40 AM Autoprobing selected port 5900
+18/09/2012 05:07:40 AM Advertising security type: 'TLS' (18)
+18/09/2012 05:07:40 AM Re-binding socket to listen for VNC connections on TCP port 5900 in (all) interface
+18/09/2012 05:07:40 AM Listening IPv6://[::]:5900
+18/09/2012 05:07:40 AM Listening IPv4://0.0.0.0:5900
+18/09/2012 05:07:40 AM Clearing securityTypes
+18/09/2012 05:07:40 AM Advertising security type: 'TLS' (18)
+18/09/2012 05:07:40 AM Clearing securityTypes
+18/09/2012 05:07:40 AM Advertising security type: 'TLS' (18)
+18/09/2012 05:07:40 AM Advertising authentication type: 'No Authentication' (1)
+18/09/2012 05:07:40 AM Re-binding socket to listen for VNC connections on TCP port 5900 in (all) interface
+18/09/2012 05:07:40 AM Listening IPv6://[::]:5900
+18/09/2012 05:07:40 AM Listening IPv4://0.0.0.0:5900
+18/09/2012 05:07:40 AM Clearing securityTypes
+18/09/2012 05:07:40 AM Clearing authTypes
+18/09/2012 05:07:40 AM Advertising security type: 'TLS' (18)
+18/09/2012 05:07:40 AM Advertising authentication type: 'No Authentication' (1)
+18/09/2012 05:07:40 AM Advertising security type: 'No Authentication' (1)
+
+(vino-server:11488): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(vino-server:11488): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+18/09/2012 05:07:55 AM Clearing securityTypes
+18/09/2012 05:07:55 AM Clearing authTypes
+18/09/2012 05:07:55 AM Advertising security type: 'TLS' (18)
+18/09/2012 05:07:55 AM Advertising authentication type: 'VNC Authentication' (2)
+18/09/2012 05:07:55 AM Advertising security type: 'VNC Authentication' (2)
+
+Tue Sep 18 05:08:59 2012
+ Connections: closed: 0.0.0.0::61546 (Clean disconnection)
+ SMsgWriter:  framebuffer updates 631
+ SMsgWriter:    ZRLE rects 1878, bytes 2261651
+ SMsgWriter:    raw bytes equivalent 78377108, compression ratio 34.654820
+
+Tue Sep 18 06:03:46 2012
+ Connections: accepted: 0.0.0.0::61642
+
+Tue Sep 18 06:03:47 2012
+ SConnection: Client needs protocol version 3.889
+ SConnection: Client uses unofficial protocol version 3.889
+ SConnection: Assuming compatibility with version 3.8
+
+Tue Sep 18 06:03:50 2012
+ Connections: closed: 0.0.0.0::61642 (Clean disconnection)
+18/09/2012 06:04:02 AM [IPv4] Got connection from client 192.168.202.33
+18/09/2012 06:04:02 AM   other clients:
+18/09/2012 06:04:02 AM Client Protocol Version 3.889
+18/09/2012 06:04:02 AM Ignoring minor version mismatch
+18/09/2012 06:04:02 AM Advertising security type 18
+18/09/2012 06:04:02 AM Advertising security type 2
+18/09/2012 06:04:07 AM Client returned security type 2
+18/09/2012 06:04:07 AM rfbProcessClientNormalMessage: ignoring unknown encoding type 1011
+18/09/2012 06:04:07 AM rfbProcessClientNormalMessage: ignoring unknown encoding type 1002
+18/09/2012 06:04:07 AM rfbProcessClientNormalMessage: ignoring unknown encoding type 1104
+18/09/2012 06:04:07 AM rfbProcessClientNormalMessage: ignoring unknown encoding type 1100
+18/09/2012 06:04:07 AM Enabling NewFBSize protocol extension for client 192.168.202.33
+18/09/2012 06:04:07 AM rfbProcessClientNormalMessage: ignoring unknown encoding type 1101
+18/09/2012 06:04:07 AM Pixel format for client 192.168.202.33:
+18/09/2012 06:04:07 AM   32 bpp, depth 32, little endian
+18/09/2012 06:04:07 AM   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+Ready.
+
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:18009): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:18009): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:18009): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:18009): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:18009): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:18009): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:18009): WARNING **: Trying to turn past the last page of the wizard
+Window manager warning: Invalid WM_TRANSIENT_FOR window 0xa00034 specified for 0xa00cb0 (Close SQL ).
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:18009): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+Segmentation fault (core dumped)
+*** Segmentation fault
+Register dump:
+
+ RAX: 00007fd854028a40   RBX: 00007fd879c7ea28   RCX: 00000000736e6f69
+ RDX: 0000000000000000   RSI: 00007fd8540029f0   RDI: 00007fd854003040
+ RBP: 00007fff66704df0   R8 : 0000000000000002   R9 : 000000000021298d
+ R10: 000000000000000c   R11: 00007fd8708fcd10   R12: 00007fd87bea5f30
+ R13: 0000000000000000   R14: 00007fff66705220   R15: 00007fd87c334800
+ RSP: 00007fff66704dd8
+
+ RIP: 0000000000000050   EFLAGS: 00010246
+
+ CS: 0033   FS: 0000   GS: 0000
+
+ Trap: 0000000e   Error: 00000014   OldMask: 00000000   CR2: 00000050
+
+ FPUCW: 0000037f   FPUSW: 00000020   TAG: 00007fd8
+ RIP: 70d77fff   RDP: 667024d8
+
+ ST(0) 0000 0000000000000000   ST(1) 0000 0000000000000000
+ ST(2) 0000 0000000000000000   ST(3) 0000 0000000000000000
+ ST(4) 0000 0000000000000000   ST(5) 0000 0000000000000000
+ ST(6) ffff d3c8000000000000   ST(7) 8000 8000000000000000
+ mxcsr: 1fa7
+ XMM0:  00000000000000000000000000000000 XMM1:  00000000000000000000000000000000
+ XMM2:  00000000000000000000000000000000 XMM3:  00000000000000000000000000000000
+ XMM4:  00000000000000000000000000000000 XMM5:  00000000000000000000000000000000
+ XMM6:  00000000000000000000000000000000 XMM7:  00000000000000000000000000000000
+ XMM8:  00000000000000000000000000000000 XMM9:  00000000000000000000000000000000
+ XMM10: 00000000000000000000000000000000 XMM11: 00000000000000000000000000000000
+ XMM12: 00000000000000000000000000000000 XMM13: 00000000000000000000000000000000
+ XMM14: 00000000000000000000000000000000 XMM15: 00000000000000000000000000000000
+
+Backtrace:
+Initializing nautilus-dropbox 1.4.0
+Initializing nautilus-gdu extension
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+Ready.
+
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:22047): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: IA__gtk_tree_view_get_cell_area: assertion `column == NULL || GTK_IS_TREE_VIEW_COLUMN (column)' failed
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:22047): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:22047): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:22047): WARNING **: Trying to turn past the last page of the wizard
+
+(mysql-workbench-bin:22047): Gtk-CRITICAL **: gtk_tree_view_unref_tree_helper: assertion `node != NULL' failed
+
+** (mysql-workbench-bin:22047): WARNING **: Trying to turn past the last page of the wizard
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:20927): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:20927): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+Shutting down nautilus-gdu extension
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (mysql-workbench-bin:22047): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+
+** (mysql-workbench-bin:22047): CRITICAL **: gail_notebook_real_remove_gtk: assertion `obj' failed
+18/09/2012 06:53:28 AM Client 192.168.202.33 gone
+18/09/2012 06:53:28 AM Statistics:
+18/09/2012 06:53:28 AM   key events received 1379, pointer events 34963
+18/09/2012 06:53:28 AM   framebuffer updates 16118, rectangles 67852, bytes 54099871
+18/09/2012 06:53:28 AM     raw rectangles 1, bytes 20
+18/09/2012 06:53:28 AM     zlib rectangles 67851, bytes 54099851
+18/09/2012 06:53:28 AM   raw bytes equivalent 1209040268, compression ratio 22.348302
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.PPCPby: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.PPCPby': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.O05KFA: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.O05KFA': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.uuWhgK: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.uuWhgK': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.bCbSxa: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.bCbSxa': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.ZbRXpI: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.ZbRXpI': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.Hs2YWu: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.Hs2YWu': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.2dQk0z: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.2dQk0z': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.GqjNpr: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.GqjNpr': No such file or directory
+PolicyKit daemon disconnected from the bus.
+We are no longer a registered authentication agent.
+PolicyKit daemon reconnected to bus.
+Attempting to re-register as an authentication agent.
+
+** (polkit-gnome-authentication-agent-1:10059): WARNING **: Unable to register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Cannot determine session the caller is in
+Failed to register as an authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Cannot determine session the caller is in
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+ERROR:dbus.proxies:Introspect error on :1.224:/com/ubuntu/oneconf/HostsHandler: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Message did not receive a reply (timeout by message bus)
+Traceback (most recent call last):
+  File "/usr/bin/oneconf-query", line 246, in <module>
+    oneconf.async_update()
+  File "/usr/lib/python2.7/dist-packages/oneconf/dbusconnect.py", line 200, in async_update
+    self._get_package_handler_dbusobject().async_update()
+  File "/usr/lib/python2.7/dist-packages/dbus/proxies.py", line 70, in __call__
+    return self._proxy_method(*args, **keywords)
+  File "/usr/lib/python2.7/dist-packages/dbus/proxies.py", line 145, in __call__
+    **keywords)
+  File "/usr/lib/python2.7/dist-packages/dbus/connection.py", line 651, in call_blocking
+    message, timeout)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.ServiceUnknown: The name :1.224 was not provided by any .service files
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.QjktrJ: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.QjktrJ': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Downloads" was not found, exec: nitrogen, mime_type: inode/directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.A16QjF: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.A16QjF': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.s73pgZ: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.s73pgZ': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.goutputstream-LPJNLW: Error when getting information for file '/home/rbrown/Downloads/.goutputstream-LPJNLW': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.gMIFvA: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.gMIFvA': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.Qfhou0: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.Qfhou0': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.rNUaP6: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.rNUaP6': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_policy_number_click.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_show_pi_id.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_policy_number_click.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_search.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_show_pi_id.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_policy_number_click.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_search.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_show_pi_id.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/mic_policy_number_click.png" was not found, exec: exe, mime_type: image/png
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:275: Can't rollback transaction: 5, cannot rollback transaction - SQL statements in progress
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.LgYWIq: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.LgYWIq': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.rUfeR6: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.rUfeR6': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/rbrown/Downloads/.com.google.Chrome.Qcoptc: Error when getting information for file '/home/rbrown/Downloads/.com.google.Chrome.Qcoptc': No such file or directory
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: recent-manager-provider.vala:133: Desktop file for "file:///home/rbrown/Pictures/Wasps_0c9671_364817.jpg" was not found, exec: HipChat, mime_type: image/jpeg
+
+** (zeitgeist-datahub:10227): WARNING **: zeitgeist-datahub.vala:210: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.DatabaseError: sql.vala:263: Can't start transaction: 1, cannot start a transaction within a transaction
+[1347962252,000,xklavier_config.c:xkl_config_registry_load_helper/] 	Missing registry file /usr/share/xmodmap/base.xml
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+** (gnome-settings-daemon:9988): WARNING **: Name taken or bus went away - shutting down
+
+(nm-applet:10073): GConf-WARNING **: Got Disconnected from DBus.
+
+
+(gnome-settings-daemon:9988): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+

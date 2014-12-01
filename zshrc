@@ -12,6 +12,7 @@ ZSH_THEME="simple"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias vim="nocorrect vim"
 alias aptitude="nocorrect aptitude"
+# alias scrot="scrot -s '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/screenshots/$f'"
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 
@@ -33,13 +34,26 @@ alias aptitude="nocorrect aptitude"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git ruby rails3 rbenv ssh-agent sublime themes history)
+plugins=(git ruby rails rvm ssh-agent sublime themes history gem)
 
 source $ZSH/oh-my-zsh.sh
 unsetopt correct_all
 source /usr/share/git-flow/git-flow-completion.zsh
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # This loads RVM into a shell session.
 export _JAVA_AWT_WM_NONREPARENTING=1
+eval `keychain --eval /home/rbrown/.ssh/id_rsa 122C71AF`
+
+LD_LIBRARY_PATH=/usr/lib/oracle/11.2/client64/lib:${LD_LIBRARY_PATH}
+export LD_LIBRARY_PATH
+SQLPATH=/usr/lib/oracle/11.2/client64/lib:${SQLPATH}
+export SQLPATH
+TNS_ADMIN=/home/rbrown/.oracle
+export TNS_ADMIN
+
 # Customize to your needs...
-export PATH=/home/rbrown/.cabal/bin:/home/rbrown/.rvm/gems/ruby-1.9.3-p125/bin:/home/rbrown/.rvm/gems/ruby-1.9.3-p125@global/bin:/home/rbrown/.rvm/rubies/ruby-1.9.3-p125/bin:/home/rbrown/.rvm/bin:/home/rbrown/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/home/rbrown/.rvm/bin
+export PATH=/home/rbrown/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/home/rbrown/.rvm/bin:$ORACLE_HOME:$ORACLE_HOME/bin:$PATH
+export CLASSPATH=/home/rbrown/src/mysql-connector-java-5.1.25/mysql-connector-java-5.1.25-bin.jar:$CLASSPATH
+
+[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh # This loads NVM
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" 
+export PATH=$HOME/local/bin:$PATH

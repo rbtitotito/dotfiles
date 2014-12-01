@@ -102,12 +102,6 @@ fi
 
 eval `keychain --eval --agents ssh id_rsa`
 
-source ~/.rails.bash
-
-complete -F _todo t
-complete -o default -o nospace -F _git g
-export TODOTXT_DEFAULT_ACTION=ls
-alias t='todo.sh -d /home/rbrown/.todo/todo.cfg'
 export _JAVA_AWT_WM_NONREPARENTING=1
+
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # This loads RVM into a shell session.

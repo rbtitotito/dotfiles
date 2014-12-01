@@ -1,0 +1,28 @@
+# Bash path
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+
+if [ -d "$HOME/bin" ] ; then
+    PATH="$HOME/bin:$PATH"
+fi
+
+if [ -d "$HOME/local/bin" ] ; then
+    PATH=$HOME/local/bin:$PATH
+fi
+
+PATH=$ORACLE_HOME:$ORACLE_HOME/bin:$PATH
+
+PATH=/usr/lib/lightdm/lightdm:$PATH
+
+if [ -d "$SCALA_HOME/bin" ] ; then
+    PATH=$PATH:$SCALA_HOME/bin # add scala support to path 
+fi
+
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then
+    PATH="$HOME/bin:$PATH"
+fi
+# may be unneeded
+if [ -d "$HOME/.node_modules/.bin" ]; then
+    PATH=$HOME/.node_modules/.bin:$PATH
+fi
+# classpath

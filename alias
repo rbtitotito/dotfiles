@@ -1,0 +1,13 @@
+alias vim="nocorrect vim"
+alias aptitude="nocorrect aptitude"
+alias be="bundle exec "
+alias update='sudo aptitude update'
+alias upgrade='sudo aptitude update; sudo aptitude upgrade'
+alias ins='sudo aptitude install'
+alias rem='sudo aptitude purge'
+alias search='aptitude search'
+alias autoremove='sudo apt-get autoremove'
+alias ack='ack-grep'
+alias monitor_kermit='watch -n 2 --color monitor_replication.rb kermit.medicusins.com'
+alias monitor_dr='watch -n 2 --color monitor_replication.rb mic5dr.medicusins.com'
+alias monitor_kermitdr='watch -n 2 --color monitor_replication.rb kermitdr.medicusins.com'

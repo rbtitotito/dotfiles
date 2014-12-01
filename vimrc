@@ -3,19 +3,32 @@
 " Author: Rob Brown <rbrown@medicusins.com> 
 "------------------------------------------------------------------------------
 
-version 1.0
-"------------------
-" Pathogen
-"------------------
+"------------------------------------------------------------------------------
+" Vundle Stuff
+"------------------------------------------------------------------------------
+set nocompatible
 filetype off
-call pathogen#infect()
-call pathogen#helptags()
-filetype plugin indent on
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+Bundle 'gmarik/vundle'
+Bundle 'sheerun/vim-polyglot'
+Bundle 'tpope/vim-endwise'
+Bundle 'tpope/vim-git'
+Bundle 'tpope/vim-surround'
+Bundle 'tomtom/tcomment_vim'
+Bundle 'Lokaltog/vim-easymotion'
+Bundle 'kien/ctrlp.vim'
+Bundle 'vim-ruby/vim-ruby'
+Bundle 'jackfranklin/vim-markdown-writer'
+Bundle 'thoughtbot/vim-rspec'
+Bundle 'airblade/vim-gitgutter'
+
+filetype on
 
 "------------------------------------------------------------------------------
-" Standard stuff.
+" Standard stuff
 "------------------------------------------------------------------------------
-
 set number
 set ruler
 set showmatch

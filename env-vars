@@ -1,6 +1,4 @@
-LD_LIBRARY_PATH=/usr/lib/oracle/11.2/client64/lib
-ORACLE_HOME=/usr/lib/oracle/11.2/client64 
-TNS_ADMIN=/usr/lib/oracle/11.2/client64/network/admin 
+export JAVA_HOME=/usr/lib/jvm/jdk1.7.0_55
 SCALA_HOME=$HOME/src/scala
 RLWRAP_HOME=$HOME/.config/rlwrap_history
 

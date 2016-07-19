@@ -99,9 +99,3 @@ fi
 if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
-
-eval `keychain --eval --agents ssh id_rsa`
-
-export _JAVA_AWT_WM_NONREPARENTING=1
-
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
